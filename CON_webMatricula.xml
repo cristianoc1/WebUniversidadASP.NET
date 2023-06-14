@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<!-- Es un comentario-->
+<Parametros>
+	<Servidor>DESKTOP-5CD00B2</Servidor>
+	<BaseDatos>BDMatricula</BaseDatos>
+	<Usuario>Ocampo</Usuario>
+	<Clave>Ocampo123</Clave>
+	<SeguridadIntegrada>Si</SeguridadIntegrada>
+	<!-- SI ES WINDOWS AUTETICCATION COLOCAMOS SI, CUANDO ES SQL SERVER AUTETICATION NO-->
+	
+</Parametros>
